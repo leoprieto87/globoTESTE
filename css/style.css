@@ -1,0 +1,23 @@
+body {
+}
+
+.nav-assinante {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-assinante--logo {
+  flex-grow: 1;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-canais ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
